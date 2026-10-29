@@ -1,0 +1,55 @@
+Apple Tree Growth Story - User Manual
+
+1. Prerequisites
+. C++ Compiler (Microsoft Visual Studio recommended)
+. OpenGL / FreeGLUT libraries
+. Windows OS (for sound support)
+
+2. Required Files
+  Make sure these files are in the same folder as the executable:
+. Brick.bmp
+. roof.bmp
+. Rain.wav
+
+3. How to Build and Run
+
+. Open Visual Studio
+
+. Create a new Empty C++ Project
+
+. Add a .cpp file and paste the project code
+
+. Place required files in project folder
+
+. Click "Local Windows Debugger" to run
+
+4. Controls
+  Keyboard:
+. N: Next scene
+. R: Final scene
+. W: Move character
+. F: Drop apple (Scene 4 only)
+
+5. Scene Description
+. Scene 1: Planting the seed under the sun
+. Scene 2: Rain scene with sound and clouds
+. Scene 3: Tree grows bigger
+. Scene 4: Tree produces apples and final message
+
+6. Features
+. Multiple scenes
+. Animations (sun rotation, clouds, rain, apple falling)
+. Sound effects (rain)
+. Texture mapping (house and roof)
+. Character movement
+. Dialogue system
+
+7. Notes
+. Make sure all files are in the correct folder
+. Sound works only on Windows systems
+. If textures don't appear, check file names and location
+
+8. References
+. Suraj Sharma. (2018, June 24). OpenGL / C++ 3D Tutorial 22 - Texture class (Nice and tidy!) [Video]. YouTube. https://www.youtube.com/watch?v=4tdy1izUv_Y
+
+
